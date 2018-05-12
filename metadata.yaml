@@ -1,0 +1,32 @@
+_repo: In-the-Wars-of-the-Roses--13-A-Story-for-the-Young_15769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Dare, Evelyn
+    - Everett-Green, E. (Evelyn)
+    - Ward, E.
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Juvenile fiction'
+title: 'In the Wars of the Roses: A Story for the Young'
+url: http://www.gutenberg.org/ebooks/15769
