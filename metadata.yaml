@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4888'
     url: http://www.gutenberg.org/2009/agents/4888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15769#In-the-Wars-of-the-Roses--13-A-Story-for-the-Young
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-05-05'
 gutenberg_type: Text
